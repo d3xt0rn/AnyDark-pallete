@@ -170,7 +170,7 @@ AnyDark follows a few simple principles:
 * A more vivid terminal
 
 > [!TIP]
-> If you are unsure, start with **Classic**. Xstyle is the better choice if you specifically prefer very high-contrast terminal themes.
+> If you are unsure, start with **Classic**. Xstyle is the better choice if you specifically prefer very high-contrast terminal themes like default **xterm** color theme.
 
 ---
 
