@@ -24,7 +24,7 @@ It comes in two variants:
 | Variant     | Style           | Contrast  | Best for            |
 | ----------- | --------------- | --------- | ------------------- |
 | **Classic** | Warm & balanced | High      | Everyday use        |
-| **Xstyle**  | Dark & vivid    | Very high | Maximum readability |
+| **Xstyle**  | Dark & vivid    | bit more high | Maximum readability |
 
 ### Classic
 
